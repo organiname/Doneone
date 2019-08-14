@@ -5,7 +5,13 @@ public class TestGit {
 
 
 		test04();
+		test05();
 		test02();
+		
+	}
+
+	private static void test05() {
+		// TODO Auto-generated method stub
 		
 	}
 
