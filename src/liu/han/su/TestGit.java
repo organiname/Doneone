@@ -7,7 +7,7 @@ public class TestGit {
 	}
 
 	private static void test01() {
-	String s =	Git.name;
+	String s =	Ye.name;
 		
 	}
 	
