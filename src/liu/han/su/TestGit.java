@@ -7,7 +7,7 @@ public class TestGit {
 	}
 
 	private static void test01() {
-		System.out.println("12345");
+	String s =	Git.name;
 		
 	}
 	
