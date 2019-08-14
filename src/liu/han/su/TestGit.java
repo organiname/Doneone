@@ -4,7 +4,13 @@ public class TestGit {
 	public static void main(String[] args) {
 
 
+		test04();
 		test02();
+		
+	}
+
+	private static void test04() {
+		// TODO Auto-generated method stub
 		
 	}
 
