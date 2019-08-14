@@ -7,7 +7,9 @@ public class TestGit {
 	}
 
 	private static void test01() {
+
 	String s =	Sun.name;
+
 		
 	}
 	
