@@ -9,9 +9,7 @@ public class Test {
 		System.out.println("thired"+"liuhansu01");
 		System.out.println(Cat.catName+"thired commit!!");
 
-
-		System.out.println("我自己cesium碗的");
-
+System.out.println("最后的");
 	}
 
 	private static void syt() {
